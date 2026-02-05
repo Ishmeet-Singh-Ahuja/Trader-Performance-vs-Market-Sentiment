@@ -186,3 +186,7 @@ pip install -r requirements.txt
 
 ### Run the script
 streamlit run app.py
+
+## OR
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://trader-performance-vs-market-sentiment.streamlit.app/)
