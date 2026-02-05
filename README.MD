@@ -130,7 +130,7 @@ Balanced precision and recall across classes.
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](imges/confusion_matrix.png)
 
 Key observations:
 - Profit predicted strongest  
@@ -141,7 +141,7 @@ Key observations:
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](imges/feature_importance.png)
 
 Key insights:
 
